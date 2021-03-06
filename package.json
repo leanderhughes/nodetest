@@ -1,0 +1,27 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "nodetest",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LS",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leanderhughes/nodetest.git"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/leanderhughes/nodetest/issues"
+  },
+  "homepage": "https://github.com/leanderhughes/nodetest#readme"
+}
